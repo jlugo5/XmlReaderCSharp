@@ -1,0 +1,66 @@
+using System;
+using System.XML;
+using System.IO;
+
+namespace xmlreader
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int totalc = 0;
+
+            xmlDocument xmlDoc = new mlDocument();
+            string XMLpath = Directory.GetCurrentDirectory + @"\info.cml";
+            xmlDoc.Load(XMLpath);
+
+            xmlNodeList Clist = xmlDoc.GetElementByTagName("last-connected");
+            totalc = Clist.Count;
+            for (int i = 0; i < Clist.Count; i++)
+            {
+                Console.WriteLine(Clist[i].InnerText.toString());
+                System.Threading.Thread.Sleep(1000);
+            }
+
+            Console.WriteLine(Environment.NewLine);
+            Console.WriteLine(totalc.ToString() + " version inXML File.");
+            Console.ReadLine();
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+// using System.Xml;
+
+// XmlDocument doc = new XmlDocument();
+// doc.Load("info.xml");
+// // or
+
+// // doc.LoadXml("<xml>something</xml>");
+// // then find a node below it ie like this
+
+// XmlNode node = doc.DocumentElement.SelectSingleNode("/book/title");
+// // or
+
+// // foreach(XmlNode node in doc.DocumentElement.ChildNodes){
+// //    string text = node.InnerText; //or loop through its children as well
+// // }
+// // then read the text inside that node like this
+
+// string text = node.InnerText;
+// // or read an attribute
+
+// // string attr = node.Attributes["theattributename"]?.InnerText
+
+// Console.WriteLine(text);

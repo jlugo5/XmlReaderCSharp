@@ -1,0 +1,15 @@
+C:\Users\lugoj\Documents\Programming\C#\xmlReaderr\obj\Debug\net6.0\xmlReaderr.csproj.AssemblyReference.cache
+C:\Users\lugoj\Documents\Programming\C#\xmlReaderr\obj\Debug\net6.0\xmlReaderr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugoj\Documents\Programming\C#\xmlReaderr\obj\Debug\net6.0\xmlReaderr.AssemblyInfoInputs.cache
+C:\Users\lugoj\Documents\Programming\C#\xmlReaderr\obj\Debug\net6.0\xmlReaderr.AssemblyInfo.cs
+C:\Users\lugoj\Documents\Programming\C#\xmlReaderr\obj\Debug\net6.0\xmlReaderr.csproj.CoreCompileInputs.cache
+C:\Users\lugoj\Documents\Programming\C#\xmlReaderr\bin\Debug\net6.0\xmlReaderr.exe
+C:\Users\lugoj\Documents\Programming\C#\xmlReaderr\bin\Debug\net6.0\xmlReaderr.deps.json
+C:\Users\lugoj\Documents\Programming\C#\xmlReaderr\bin\Debug\net6.0\xmlReaderr.runtimeconfig.json
+C:\Users\lugoj\Documents\Programming\C#\xmlReaderr\bin\Debug\net6.0\xmlReaderr.dll
+C:\Users\lugoj\Documents\Programming\C#\xmlReaderr\bin\Debug\net6.0\xmlReaderr.pdb
+C:\Users\lugoj\Documents\Programming\C#\xmlReaderr\obj\Debug\net6.0\xmlReaderr.dll
+C:\Users\lugoj\Documents\Programming\C#\xmlReaderr\obj\Debug\net6.0\refint\xmlReaderr.dll
+C:\Users\lugoj\Documents\Programming\C#\xmlReaderr\obj\Debug\net6.0\xmlReaderr.pdb
+C:\Users\lugoj\Documents\Programming\C#\xmlReaderr\obj\Debug\net6.0\xmlReaderr.genruntimeconfig.cache
+C:\Users\lugoj\Documents\Programming\C#\xmlReaderr\obj\Debug\net6.0\ref\xmlReaderr.dll
