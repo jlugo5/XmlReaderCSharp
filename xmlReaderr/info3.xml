@@ -1,0 +1,28 @@
+<tool_info platform='CERBERUS' sku='42051-JL-3'>
+	<registration sn='201652458' status='0' tool_oem='SCTD3' updates='0'/>
+	<applications count='5'>
+		<application name='vehicle' rev='3r02q'/>
+		<application name='updater' rev='2r01l'/>
+		<application name='gui' rev='3r05l'/>
+		<application name='installer' rev='2r01s'/>
+		<application name='logger' rev='2r01h'/>
+	</applications>
+	<databases dbnames='2r01a' dtc='2r01a' vin='2r01q' SAE='3r01o' GaugeScreens='3t00eu' GaugeLayouts='3t00bh' Graphics='3t00at'>
+		<database mfr='DCX' tune='2t02yz' pid='2r01k'/>
+		<database mfr='FORD' pid='2r01i'/>
+		<database mfr='GM' pid='2r01h'/>
+	</databases>
+	<system rev='2r01b' config='3r01p'>
+		<kernel release='4.11.12-rt16-diablo19' version='#3 PREEMPT RT Tue Jan 12 12:17:58 EST 2021'/>
+		<option name='Wifi' enabled='false'/>
+	</system>
+	<last-connected vin='2C3CDXGJ4HHXDEMOX' mfr='' ecus='1'>
+		<ecu calid='05035900AD'/>
+	</last-connected>
+	<licenses available='1' tuned='0'>
+		<option mfr='DCX'/>
+		<option config='CustomTuning'/>
+		<option config='FuelGas'/>
+	</licenses>
+	<reg reg='4HUc5oJMOMxfnuXapTQQcIaWmeBLkF/BT0rQA/yq+TKMR4tAIsQF1KKZdw3O7kEhieJEU7DLfl+WUXmHRGYGD1yrIz25kx2NR9owzMhFW5Ba+POaXUzWxfaAN5yUddQ3/GiAnP5Z4TULTARctxTha6wNEuu+hNsCkbyXbsPK1wqRkENyOPclS68YgTUkHzKISYE522+J5jyuhgHf/tHRQajJSMdfnmNs/z5V2aW0ALlyy+fdS4T6untBowfttoXL50GB+tWHduM+jO2pFsrOsHzdxH7sv0xHoZbkRH35ARECj+moBI3CCFVPTNhKEXc1vhB5EUEQIMKn+i/zv+c1tFTp05n+AsrkZ9jPYfV5csIlUpD0A8AUDqTGUfQs72UimomcBOVycSB1JSNP+38K7vx/dVat4DYbOz4Pr9AN4PE6pvr503YMYwO/+Iuk80JP9RQdeHYJYwuRYOAypmOvz3KwV/SnWdoadoNHM3XcqQ6lPXQb8XaxQfhaY0ACK51M9pFa0eMkoDLV5yEijE4DIDnWlnUSOZnV0sa7yaaqPvjM+Idf0hTuqMUU2pQ7qkBiN8FfFLIEH/AUvgmSvHdDPadlStSjTpY7RwyznymOk14UYVykITg0LwwMHz1pnr5mlOx6SwiYUFC9E94dRHZrAS3GQEcp1O0zCOlh23nrLR1cNTXGW/6d4N1eNcQuZlD7wtxTMd5WZKco5NcpVzf+nEzRQ7tMEzov5w3Cwd1RzSG/lMSpaN90V/fN+Zdpiz1+f3sgnBLIMsxkS6bH9zi4vevVUXQWMHjrvDXYe+l0YARRjrZP+xLJmSjoWMBrURwgVEtZUiMiAQDl+LBZuwQzSMYYo59W/M39Q8UYqq9xPj+hwPHXoZBphdOPtoZvA43fLUP56pSLAmNLwGrXimaFaOD71yqjOX8n0bYn7K+cbdpDfxmzFd7YPt2GIMDbxQze7I8QbI32814RlgNWbhvDdGXBs2oljk1GDifNqo0nM+Smye7eaR9gQl3thZVM8AtQgxXxuso6mtjsEYuejIeL7Hv1LFTa9MQSEDz5Ub+dbIO0O40BpnZ2FMiC55oNcmQC8Wy9B7uDc+V35GM38aM9hNL5tU/uB5PX800QGKBA3/ebSQBL3PCyOgt6QCRMsj2Jc3opx4oBt30OKRhFC5xLZpl+mrPoR7gxciphrAfUxZ0VAZcQ6eKnlv7ZV5t1gj2MXnLHyMWkm3lcD7shqkWifI1onLBQEsYaUlIXJWDLuneLMqdGemtmZdPDaSESr15GyW3G5co9LC0urBeaQUtoRax1tGxs98czSp4zc2QvTzvEqVDL+SkKG0vYvmdSlEc/wXfgcpv+qdWFcczH0E+r4LDKc80vfHVpqVcWFTZzmFaDeo5vxm59xtwrh3D2O4JP9FnsTcEx0V5zCVu4BnTo+De4xP5sIfKhgkmClNRF1I6J8GMAPcfymSz+WORk+ccc3nhZbDGyWVCGOz1d/TpMGp3ovVskC3jtGrPpRPpfi+6tqq+yUCN2uN9YX6vKciDXZqy0HUoUVzBtNxNE2WPcmren+fHbCSa+8OkVz42BZRTnyU/uO1q2EHr+4KRmcTYMgs64DP4nJwRv4OuU9bfUXQL7BJYs58V5CAPeiH4U2h9Ha9g7SPuR2d5oZQlpUldYeFGUgbzqtKHUkbcJtFGhQECPWjgb+h64ZRolQ3Lb628h2mJ3g+Rncpo6KWGGcxwY/m+/riZquGcqWwhM+i26N301fnJ7eWRrQG9XchEDx3+ksf+7mZp7QtELt8waUIohM+EK18Vdsu8KRcf2dMxwtk73nRKHthIb12ZdPEOOTH0t5zjibB8MkPZbx+69flJOAn9V3SKD'/>
+</tool_info>
